@@ -1,7 +1,7 @@
 import { MongoClient } from 'mongodb'
 import 'dotenv'
 
-const uri = "mongodb://localhost:27017/"
+const uri = "mongodb+srv://user:userword123@cluster0.lonxp2g.mongodb.net/?appName=Cluster0"
 let client
 let clientPromise
 
